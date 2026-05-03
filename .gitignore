@@ -1,0 +1,10 @@
+models/
+data/
+dashboard/results.csv
+dashboard/alerts.csv
+*.pkl
+*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
